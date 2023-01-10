@@ -1,4 +1,4 @@
-# Neural-Network-framework-using-Backpropogation-in-C
+# Shogi-Linked_List
 
 ## Usage
 ```sh
